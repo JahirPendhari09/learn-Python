@@ -44,3 +44,61 @@
 #     print("now you are adult")
 # else:
 #     print("you are not adult")
+
+# while loop
+
+# i=1
+
+# while i<= 5:
+#     print(i)
+#     i +=1
+
+
+# i=1
+# while i<= 5:
+#     print(i*"*")
+#     i +=1
+
+# output
+# *
+# **
+# ***
+# ****
+# *****
+
+# for loop
+
+# for i in range(5):
+#     print(i+1)
+
+# marks =[66,76,64,67]
+# print(marks)
+
+# create new arr 
+# print(marks[1:4])
+
+# marks =[66,76,64,67]
+# for curr in marks:
+#     print(curr)
+
+# push new element in arr
+# marks.append(89)
+# print(marks)
+
+# add element at index
+# marks.insert(0,90)
+# print(marks)
+
+# find length of arr 
+# print(len(marks))
+
+# remove all the element in array 
+# marks.clear()
+# print(marks)
+
+# disctionary or object in js
+
+marks = {"english":98, "Maths":94}
+print(marks)
+marks["physics"] = 94
+print(marks["Maths"])
